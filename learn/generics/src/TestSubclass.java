@@ -1,2 +1,2 @@
-public class TestSubclass {
+public class TestSubclass extends  TestSuper {
 }
