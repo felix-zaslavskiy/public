@@ -1,4 +1,3 @@
-public2
-======
+blah
 
 my public code
