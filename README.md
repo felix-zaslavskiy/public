@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-public1
-=======
-public2
->>>>>>> master
-======
+test
 
 my public code
