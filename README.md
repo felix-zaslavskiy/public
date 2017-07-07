@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-test
-=======
-blah
->>>>>>> master
-
-my public code
+Felix zaslavskiy Codes
