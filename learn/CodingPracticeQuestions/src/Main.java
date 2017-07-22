@@ -11,10 +11,12 @@ public class Main {
         ArrayList2_CheckForPermutations.class;
         ArrayList3_StringEditInPlace.class;
         BasicGraph.class;
+        BreadthFirstSearch.class;
+
 
         */
         // Invoke the run method for the class in the package.
-        Class<?> c = BreadthFirstSearch.class;
+        Class<?> c = DepthFirstSearch.class;
 
         Object t = c.newInstance();
         Method[] allMethods = c.getDeclaredMethods();

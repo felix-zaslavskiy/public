@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CodingPracticeQuestions/interviewQuestions.iml" filepath="$PROJECT_DIR$/CodingPracticeQuestions/interviewQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingPracticeQuestions/CodingPracticeQuestions.iml" filepath="$PROJECT_DIR$/CodingPracticeQuestions/CodingPracticeQuestions.iml" />
       <module fileurl="file://$PROJECT_DIR$/classtypes/classtypes.iml" filepath="$PROJECT_DIR$/classtypes/classtypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/jndi/jndi.iml" filepath="$PROJECT_DIR$/jndi/jndi.iml" />

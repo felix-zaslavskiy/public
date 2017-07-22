@@ -42,6 +42,7 @@ public class BreadthFirstSearch implements Question {
 
     /**
      * Find vertex w/ this value.
+     * Breadth first search is best implemented using a queue.
      * @param g
      * @param value
      * @return
