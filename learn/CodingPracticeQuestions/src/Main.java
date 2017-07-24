@@ -12,11 +12,11 @@ public class Main {
         ArrayList3_StringEditInPlace.class;
         BasicGraph.class;
         BreadthFirstSearch.class;
-
+        DepthFirstSearch.class
 
         */
         // Invoke the run method for the class in the package.
-        Class<?> c = DepthFirstSearch.class;
+        Class<?> c = LinkedList1_RemoveDuplicates.class ;
 
         Object t = c.newInstance();
         Method[] allMethods = c.getDeclaredMethods();
