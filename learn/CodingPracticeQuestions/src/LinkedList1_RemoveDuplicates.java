@@ -1,4 +1,6 @@
-public class LinkedList1_RemoveDuplicates implements  Question {
+import base.Question;
+
+public class LinkedList1_RemoveDuplicates implements Question {
     @Override
     public void run() {
 

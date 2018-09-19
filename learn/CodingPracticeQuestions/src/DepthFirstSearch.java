@@ -1,3 +1,4 @@
+import base.Question;
 import graph.Graph;
 import graph.GraphDirected;
 import graph.Vertex;

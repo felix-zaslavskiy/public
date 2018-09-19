@@ -1,6 +1,7 @@
+import base.Question;
 import graph.Graph;
 
-public class BasicGraph implements  Question {
+public class BasicGraph implements Question {
     @Override
     public void run() {
         Graph g = new Graph();

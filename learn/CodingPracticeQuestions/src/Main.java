@@ -1,3 +1,5 @@
+import chapter1.Q4_Palindrome;
+
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
@@ -7,16 +9,16 @@ public class Main {
 
         /*
 
-        ArrayList1_UniqueChars.class;
-        ArrayList2_CheckForPermutations.class;
-        ArrayList3_StringEditInPlace.class;
+        chapter1.ArrayList1_UniqueChars.class;
+        chapter1.ArrayList2_CheckForPermutations.class;
+        chapter1.ArrayList3_StringEditInPlace.class;
         BasicGraph.class;
         BreadthFirstSearch.class;
         DepthFirstSearch.class
 
         */
         // Invoke the run method for the class in the package.
-        Class<?> c = LinkedList1_RemoveDuplicates.class ;
+        Class<?> c = Q4_Palindrome.class ;
 
         Object t = c.newInstance();
         Method[] allMethods = c.getDeclaredMethods();
